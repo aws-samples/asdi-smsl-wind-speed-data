@@ -13,6 +13,7 @@ The data is provided by [Radiant Earth](https://www.radiant.earth/) under the Cr
 - You can use Sage MakerStudio Lab to run this example showing how to extract information from sustainability-relevant open data hosted on AWS.
 
 [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/https://github.com/aws-samples/asdi-smsl-wind-speed-data/blob/main/wind-speed-data.ipynb)
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
