@@ -1,0 +1,16 @@
+name: wind-speed-data
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - opencv-python
+    - torch
+  - conda
+  - conda:
+    - ipykernel 
+    - pandas
+    - numpy
+    - matplotlib
+    - boto3
+    - s3fs
+    - seaborn
