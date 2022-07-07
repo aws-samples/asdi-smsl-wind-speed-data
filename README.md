@@ -10,7 +10,7 @@ The data is provided by [Radiant Earth](https://www.radiant.earth/) under the Cr
 
 - In this sample, I show how to connect to S3, fetch some data from a specific storm, and visualize the change of a storm's appearance over time.
 - Thank you, and congratulations to the [winners of the challenge](https://drivendata.co/blog/wind-dependent-variables-winners/) for which this data was first generated, and for [resources created by Tamara Glazer,](https://github.com/radiantearth/mlhub-tutorials/blob/main/notebooks/NASA%20Tropical%20Storm%20Wind%20Speed%20Challenge/nasa-tropical-storm-wind-speed-challenge-benchmark.ipynb) on which parts of this sample were based.
-- You can use Sage MakerStudio Lab to run this example showing how to extract information from sustainability-relevant open data hosted on AWS.
+- You can use Sage MakerStudio Lab to run this example.
 
 [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/https://github.com/aws-samples/asdi-smsl-wind-speed-data/blob/main/wind-speed-data.ipynb)
 
